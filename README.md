@@ -1,2 +1,2 @@
-# ADIM
-C++ exercises
+ADIM
+C++ exercises with Doxygen
