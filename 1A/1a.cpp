@@ -9,6 +9,7 @@
 ///take two parameters, an int for the argument count, and an array of char * strings for the arguments. 
 int main(int argc, char *argv[])
 {	
+	/**float celsius is the input parameter*/
 	float 	celsius = 0,
 		reaumur = 0;
 	
