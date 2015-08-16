@@ -1,0 +1,3 @@
+1C - Calculate angle degree to radian
+
+angle(rad) = angle(deg) x Pi / 180
